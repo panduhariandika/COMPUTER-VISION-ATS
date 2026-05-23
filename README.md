@@ -9,10 +9,8 @@ ATS
 
 ## 🎬 Video Penjelasan
 
-[![YouTube](https://img.shields.io/badge/YouTube-Video%20Penjelasan-red?style=for-the-badge&logo=youtube)](LINK_YOUTUBE_DI_SINI)
-
-**Link Video:** `[https://youtu.be/ECFl7MbbPLo ]`
-> Contoh: https://www.youtube.com/watch?v=XXXXXXXXXXX
+**Link Video:** `https://youtu.be/ECFl7MbbPLo `
+https://youtu.be/ECFl7MbbPLo
 
 ---
 
